@@ -17,7 +17,7 @@ See `package.json` script `test-evm`.
 npm run test-evm
 ```
 
-### Option 2: add `@smithy` and `@aws-sdk` scope to `jest.config.transformIgnorePatterns`
+#### Option 2: add `@smithy` and `@aws-sdk` scope to `jest.config.transformIgnorePatterns`
 
 See `package.json` script `test`, `jest.config.js` and `babel.config.js`.
 
